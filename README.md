@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/HidzzY/HidzzY/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%5B%23%23%23%23%23%23----%5D+60%25+loading+neural+assets...;Full+Stack+Architect+%7C+Parung+Global+Node;Building+NexAI-01...;System+Online+and+Active" alt="Typing SVG" />
+</p>
+
 # Hi 👋! My name is Hidz and I'm a Full Stack Web Developer
 
 ---

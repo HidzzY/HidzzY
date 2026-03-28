@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%5B%23%23%23%23%23%23----%5D+60%25+loading+neural+assets...;Full+Stack+Architect+%7C+Parung+Global+Node;Building+NexAI-01...;System+Online+and+Active" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%5B%23%23%23%23%23%23----%5D+60%25+loading...;Full+Stack+Architect;Parung+Global+Node;Building+NexAI-01..." alt="Typing SVG" />
 </p>
 
 # Hi 👋! My name is Hidz and I'm a Full Stack Web Developer

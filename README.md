@@ -3,7 +3,7 @@
 ---
 
 ### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HidzzY&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HidzzY&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 

@@ -14,6 +14,8 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/Achievement-Quickdraw_Unlocked-orange?style=for-the-badge&logo=github" />
+
 # Hi 👋! My name is Hidz and I'm a Full Stack Web Developer
 
 ---

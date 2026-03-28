@@ -12,7 +12,7 @@
 
 ### 📊 Statistics & Languages
 ![Hidz Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HidzzY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HidzzY&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HidzzY&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800)
 ---
 
 ### 🛠️ Tech Stack & Tools

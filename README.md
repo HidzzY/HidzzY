@@ -10,9 +10,12 @@
 
 ---
 
-### 📊 Statistics & Languages
-![Hidz Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HidzzY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HidzzY&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800)
+### 📊 System Diagnostics & Neural Activity
+![Hidz Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HidzzY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,discussions_answered,prs_merged,commits&rank_icon=github&show_icons=true)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HidzzY&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+
+![Hidz Activity](https://github-readme-activity-graph.vercel.app/graph?username=HidzzY&theme=tokyonight&area=true&hide_border=true&point_size=0&custom_title=System_Neural_Activity)
 ---
 
 ### 🛠️ Tech Stack & Tools

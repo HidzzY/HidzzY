@@ -23,3 +23,4 @@
 - ⚡ Tech stack: Next.js, React, Tailwind CSS.
 - 🛠️ Infrastructure: DigitalOcean, Cloudflare, Nginx.
 - 💬 Ask me about: Web Development or Server Management.
+ 

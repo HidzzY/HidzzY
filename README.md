@@ -11,9 +11,8 @@
 ---
 
 ### 📊 Statistics & Languages
-![Hidz Stats](https://github-readme-stats.vercel.app/api?username=HidzzY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HidzzY&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
+![Hidz Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=HidzzY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HidzzY&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ### 🛠️ Tech Stack & Tools

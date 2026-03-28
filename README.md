@@ -20,9 +20,8 @@
 
 ---
 
-### 🚀 My 3D Contribution Skyline
-![GitHub Skyline](https://skyline.github.com/HidzzY/2026)
-
+### 📈 Contribution Activity
+![Hidz Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HidzzY&theme=tokyonight&hide_border=true&area=true)
 ---
 
 ### 📱 Connect with Me

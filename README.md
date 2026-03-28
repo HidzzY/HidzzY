@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HidzzY/HidzzY/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
+
 # Hi 👋! My name is Hidz and I'm a Full Stack Web Developer
 
 ---

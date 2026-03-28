@@ -11,7 +11,8 @@
 ---
 
 ### 📊 Statistics & Languages
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HidzzY&layout=compact&theme=tokyonight&hide_border=true)
+![Hidz Stats](https://github-readme-stats.vercel.app/api?username=HidzzY&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HidzzY&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
@@ -22,6 +23,7 @@
 
 ### 📈 Contribution Activity
 ![Hidz Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HidzzY&theme=tokyonight&hide_border=true&area=true)
+
 ---
 
 ### 📱 Connect with Me

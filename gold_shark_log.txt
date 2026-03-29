@@ -2,3 +2,4 @@ Gold Node Sequence: 17 - Neural Link Active
 Gold Node Sequence: 18 - Neural Link Active
 Gold Node Sequence: 19 - Neural Link Active
 Gold Node Sequence: 20 - Neural Link Active
+Gold Node Sequence: 21 - Neural Link Active

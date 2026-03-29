@@ -59,3 +59,4 @@ Gold Node Sequence: 74 - Neural Link Active
 Gold Node Sequence: 75 - Neural Link Active
 Gold Node Sequence: 76 - Neural Link Active
 Gold Node Sequence: 77 - Neural Link Active
+Gold Node Sequence: 78 - Neural Link Active

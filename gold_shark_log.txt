@@ -388,3 +388,4 @@ Gold Node Sequence: 402 - Neural Link Active
 Gold Node Sequence: 403 - Neural Link Active
 Gold Node Sequence: 404 - Neural Link Active
 Gold Node Sequence: 405 - Neural Link Active
+Gold Node Sequence: 406 - Neural Link Active

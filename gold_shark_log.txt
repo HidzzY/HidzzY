@@ -399,3 +399,4 @@ Gold Node Sequence: 413 - Neural Link Active
 Gold Node Sequence: 414 - Neural Link Active
 Gold Node Sequence: 415 - Neural Link Active
 Gold Node Sequence: 416 - Neural Link Active
+Gold Node Sequence: 417 - Neural Link Active

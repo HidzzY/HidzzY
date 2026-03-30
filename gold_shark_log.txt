@@ -375,3 +375,4 @@ Gold Node Sequence: 389 - Neural Link Active
 Gold Node Sequence: 390 - Neural Link Active
 Gold Node Sequence: 391 - Neural Link Active
 Gold Node Sequence: 392 - Neural Link Active
+Gold Node Sequence: 393 - Neural Link Active

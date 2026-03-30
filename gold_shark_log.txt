@@ -277,3 +277,4 @@ Gold Node Sequence: 291 - Neural Link Active
 Gold Node Sequence: 292 - Neural Link Active
 Gold Node Sequence: 293 - Neural Link Active
 Gold Node Sequence: 294 - Neural Link Active
+Gold Node Sequence: 295 - Neural Link Active

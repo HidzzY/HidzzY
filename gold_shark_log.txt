@@ -203,3 +203,4 @@ Gold Node Sequence: 217 - Neural Link Active
 Gold Node Sequence: 218 - Neural Link Active
 Gold Node Sequence: 219 - Neural Link Active
 Gold Node Sequence: 220 - Neural Link Active
+Gold Node Sequence: 221 - Neural Link Active

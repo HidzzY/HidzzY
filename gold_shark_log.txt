@@ -488,3 +488,4 @@ Gold Node Sequence: 502 - Neural Link Active
 Gold Node Sequence: 503 - Neural Link Active
 Gold Node Sequence: 504 - Neural Link Active
 Gold Node Sequence: 505 - Neural Link Active
+Gold Node Sequence: 506 - Neural Link Active

@@ -1,3 +1,6 @@
+
+![HidzzY](img/github-header-image.png)
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/HidzzY/HidzzY/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%" />
   

@@ -712,3 +712,4 @@ Gold Node Sequence: 726 - Neural Link Active
 Gold Node Sequence: 727 - Neural Link Active
 Gold Node Sequence: 728 - Neural Link Active
 Gold Node Sequence: 729 - Neural Link Active
+Gold Node Sequence: 730 - Neural Link Active

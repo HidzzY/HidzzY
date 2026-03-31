@@ -748,3 +748,4 @@ Gold Node Sequence: 762 - Neural Link Active
 Gold Node Sequence: 763 - Neural Link Active
 Gold Node Sequence: 764 - Neural Link Active
 Gold Node Sequence: 765 - Neural Link Active
+Gold Node Sequence: 766 - Neural Link Active

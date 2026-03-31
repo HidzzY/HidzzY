@@ -472,3 +472,4 @@ Gold Node Sequence: 486 - Neural Link Active
 Gold Node Sequence: 487 - Neural Link Active
 Gold Node Sequence: 488 - Neural Link Active
 Gold Node Sequence: 489 - Neural Link Active
+Gold Node Sequence: 490 - Neural Link Active

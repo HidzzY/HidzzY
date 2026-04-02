@@ -12,3 +12,4 @@ Gold Node Sequence: 800 - Neural Link Active
 Gold Node Sequence: 801 - Neural Link Active
 Gold Node Sequence: 802 - Neural Link Active
 Gold Node Sequence: 803 - Neural Link Active
+Gold Node Sequence: 804 - Neural Link Active

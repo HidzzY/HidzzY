@@ -28,3 +28,4 @@ Gold Node Sequence: 816 - Neural Link Active
 Gold Node Sequence: 817 - Neural Link Active
 Gold Node Sequence: 818 - Neural Link Active
 Gold Node Sequence: 819 - Neural Link Active
+Gold Node Sequence: 820 - Neural Link Active

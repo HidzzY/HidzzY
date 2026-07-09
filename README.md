@@ -1,4 +1,4 @@
-![Muhammad Wahid — Full-stack Developer](img/banner_hidz.svg)
+![Muhammad Wahid — Full-stack Developer](img/banner.svg)
 
 ---
 

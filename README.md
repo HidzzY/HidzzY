@@ -33,9 +33,13 @@
 
 ### 📝 About Me
 - 🔭 I’m currently working on modern web applications.
+
 - ⚡ Tech stack: Next.js, React, Tailwind CSS.
+
 - 🛠️ Infrastructure: DigitalOcean, Cloudflare, Nginx.
+
 - 💬 Ask me about: Web Development or Server Management.
+
 
 ---
 
@@ -50,8 +54,8 @@
 
 ### 📊 Github Stats (Berjejer agar Rapi)
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HidzzY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,discussions_answered,prs_merged,commits&rank_icon=github" alt="Hidz Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HidzzY&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HidzzY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,discussions_answered,prs_merged,commits&rank_icon=github" alt="Hidz Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidzzY&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Langs" />
 </p>
 
 ---

@@ -1,4 +1,4 @@
-![Muhammad Wahid — Full-stack Developer](img/banner.svg)
+ ![Muhammad Wahid — Full-stack Developer](img/banner.svg)
 
 ---
 
@@ -60,9 +60,9 @@
 
 ---
 
-### 📈 Contribution Activity Graph
+### 📈 Github Streak Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HidzzY&theme=tokyonight" alt="Hidz Activity Graph" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=HidzzY&theme=tokyonight&hide_border=true" alt="Hidz Streak Stats" />
 </p>
 
 ---
